@@ -3,8 +3,6 @@
 
 [Мое резюме на hh](https://spb.hh.ru/resume/832284b9ff0bff85c30039ed1f58414e4c5730)
 
-- 📌 5 место в качестве Java-разработчика на хакатоне [Sovcombank Team Challenge 2023](https://scbteamchallenge.sk.ru/)
-
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-6cb23e?style=for-the-badge&logo=Spring&logoColor=white)
