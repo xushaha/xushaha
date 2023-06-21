@@ -6,10 +6,6 @@
 - 🌱 Английский B1
 - 📌 5 место в качестве Java-разработчика на хакатоне [Sovcombank Team Challenge 2023](https://scbteamchallenge.sk.ru/)
 
-### Socials
-[![Telegram](https://img.shields.io/badge/Telegram:@xushaha-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xushaha)
-[![Mail](https://img.shields.io/badge/mail:kseniadomozhilova@gmail.com-%23316192?style=for-the-badge&logo=mail&logoColor=white)](mailto:kseniadomozhilova@gmail.com)
-
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ea2d2f?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-6cb23e?style=for-the-badge&logo=Spring&logoColor=white)
@@ -21,3 +17,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
+
+### Contacts
+[![Telegram](https://img.shields.io/badge/Telegram:@xushaha-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xushaha)
+[![Mail](https://img.shields.io/badge/mail:kseniadomozhilova@gmail.com-%23316192?style=for-the-badge&logo=mail&logoColor=white)](mailto:kseniadomozhilova@gmail.com)
