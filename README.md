@@ -5,4 +5,4 @@ Java Core, Spring Boot, Hibernate, PostgreSQL, Gradle, Postman, Git
 
 ### Контакты
 Telegram: https://t.me/xushaha
-Enmail: kseniadomozhilova@gmail.com
+Email: kseniadomozhilova@gmail.com
